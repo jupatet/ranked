@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71020148677",
+    "project_id": "ranked-e5df1",
+    "storage_bucket": "ranked-e5df1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71020148677:android:7909f30726be38b2187dac",
+        "android_client_info": {
+          "package_name": "com.jukuio.ranked"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk8ROpF_sC4lR19OYH3qOsq5DbsPEUNDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
